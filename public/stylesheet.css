@@ -1,0 +1,36 @@
+.navbar{
+	background-color: rgb(245,245,245);
+}
+.slider{
+	padding-top: 90px;
+}
+.nav-link{
+	color: black !important;
+}
+.navbar-link{
+	float: right !important;
+}
+.navbar-brand{
+	font-size: 40px !important;
+	color: #7f5834 !important;
+}
+.nav-link:hover{
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 20px;
+}
+.dropdown:hover{
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 20px;
+}
+.Heading{
+	color: #7f5834 !important;
+}
+#Footer{
+	background-color: #ffffb3!important;
+}
+#Footer a{
+	text-decoration: none;
+	color: black;
+}
